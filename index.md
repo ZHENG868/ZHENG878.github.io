@@ -12,7 +12,7 @@
 邮编：450000</b></p >
     </td>
     <td width="25%">
-    <img src="/jpg111.jpg" width="100%">
+    <img src="/蓝底证件照.jpg" width="100%">
     </td>
   </tr>
 </table>
